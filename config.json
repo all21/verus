@@ -1,22 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "tesxmr",
+        	"url": "xmr-asia1.nanopool.org:14444",
 		"timeout": 150
 	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
-		"timeout": 150
-	}
 	],
-	"user": "RXnHjH6ZSTBjcWbXYywtNzPT9LQVuETpjp",
+	"user": "84CDbx92PEW4GGn386Uwy2hiVk8wYa6BX6daYsuaccNjTGPjT9GNcmS6YxaY2amZtjJMyqhfwqJ1iLMe7pu62xTAEeVfXo2.simpd3/rhea.ree@gmail.com",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
